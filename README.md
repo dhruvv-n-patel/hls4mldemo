@@ -1,2 +1,2 @@
 # hls4mldemo 
-# convert Keras model to HLS
+# convert Keras model to HLS model
